@@ -1,6 +1,7 @@
 # ai-project-web
 
 ## Project setup
+先安装node.js
 ```
 npm install
 ```
